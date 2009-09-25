@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require 'rack/cluster/command'
+
+command = Rack::Cluster::Command.new
+command.parse_options
+command.run
