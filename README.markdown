@@ -27,6 +27,7 @@ Tools for managing multiple rackup processes. Built in the image of mongrel_clus
 ## Caveats
 
 * Truly prototype code, but I wanted to get it out there.
+* This doesn't exactly work for Rails yet, because it expects a config.ru
 
 ## TODO
 
